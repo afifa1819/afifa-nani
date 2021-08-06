@@ -1,2 +1,0 @@
-# afifa-nani
-hello world
